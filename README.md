@@ -1,1 +1,2 @@
-star is placed in the sky# star
+# star
+star is placed in the sky
